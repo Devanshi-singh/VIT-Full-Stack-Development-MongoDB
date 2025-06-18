@@ -8,5 +8,5 @@ This repository contains all the *resources, **code, and **project files* relate
 - MongoDB database integration
 - Various *mini-projects* and assignments completed during the course
 
-*Name:* Devanshi Singh  
+*Name:* Devanshi Singh 
 *Registration Number:* 22BCE11433
