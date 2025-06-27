@@ -6,7 +6,7 @@ This repository contains all the *resources, **code, and **project files* relate
 - Frontend implementations using modern web technologies 
 - Backend development and API handling
 - MongoDB database integration
-- Various *mini-projects* and assignments completed during the course
+- Various *mini-projects* and assignments completed during the course 
 
 *Name:* Devanshi Singh 
 *Registration Number:* 22BCE11433
